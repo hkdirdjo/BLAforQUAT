@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "QuaternionForINS.h"
+#include "BLAforQUAT.h"
 
 Quaternion::Quaternion( BLA::Matrix<4,1,Array<4,1,double>> q ) {
     _q = q;

@@ -1,5 +1,5 @@
-#ifndef QuaternionForINS_h
-#define QuaternionForINS_h
+#ifndef BLAforQUAT_h
+#define BLAforQUAT_h
 
 #include "Arduino.h"
 #include "BasicLinearAlgebra.h" 
