@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Quaternion	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Inverse	KEYWORD2
+Rotate	KEYWORD2
+Norm2	KEYWORD2
+setQuaternion	KEYWORD2
+getQuaternion	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
